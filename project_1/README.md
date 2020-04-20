@@ -114,7 +114,9 @@ College Board can discuss with the state on mandating or providing state funding
 
 ---
 ### 8. References
-* Data Dictionaries
+
+Data Dictionaries
+
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |state|object|SAT|This is the name of the state|
